@@ -1,0 +1,6 @@
+numHiddenLayerNeurons 10
+numInputNeurons 53
+numOutputNeurons 1
+learningRates 0.01 0.01 0.01
+sigmas 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6 0.6
+maxIterations 400
