@@ -1,0 +1,7 @@
+numHiddenLayerOneNeurons 30
+numHiddenLayerTwoNeurons 30
+numInputNeurons 16
+numOutputNeurons 26
+learningRate 0.3
+momentum 0.2
+maxIterations 200
